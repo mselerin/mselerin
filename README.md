@@ -1,4 +1,16 @@
-### Eat. Code. Scout. Climb. Sleep. Repeat.
+## Well, hello there 👋 !
 
-- I turn ☕ into 📝
-- I mainly code stuffs with Angular & Spring
+_Eat. Code. Scout. Climb. Sleep. Repeat._
+
+I'm Michel, a software developer from Belgium who has been writing code for almost 20 years.
+My first computer was a AMD 386DX-40 with 8 Mo of RAM 💾
+
+- I can turn ☕ into 📝
+- I mainly use Angular & Spring 🍃
+- I never write twice the same thing 🤓
+- I enjoy automating stuffs 🤖
+
+---
+Please, do not ask me to fix your computer...
+
+<img src="https://i.giphy.com/media/Oe4V14aLzv7JC/giphy.webp" />

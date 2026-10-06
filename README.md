@@ -8,7 +8,7 @@ My first computer was a AMD 386DX-40 with 8 Mo of RAM 💾
 
 - I can turn ☕ into 📝
 - I mainly use Angular & Spring 🍃
-- I don't like writing twice the same thing 🤓
+- I don't like writing the same thing twice 🤓
 - I enjoy automating stuffs 🤖
 
 ---
